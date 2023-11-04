@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreejaakella
 - 👀 I’m interested in ...html,css,javascript,java,sql,machine learning
-- 🌱 I’m currently learning ...java,css,machin learning
+- 🌱 I’m currently learning ...java,css,machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sreejaakella@gmail.com
 
