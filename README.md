@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreeja akella</h1>
 <h3 align="center">A passionate developer </h3>
 
-- 🔭 I’m currently working on **spring-boot,microserices**
+- 🔭 I’m currently working on **spring-boot,microservices**
 
 - 🌱 I’m currently learning **spring**
 
