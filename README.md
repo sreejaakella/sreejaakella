@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sreeja akella</h1>
 <h3 align="center">A passionate developer </h3>
 
-- 🔭 I’m currently working on **satellite image classification using cnn**
+- 🔭 I’m currently working on **spring-boot,microserices**
 
-- 🌱 I’m currently learning **python,jsp,spring**
+- 🌱 I’m currently learning **spring**
 
 - 📝 I regularly write articles on [https://medium.com/@sreejaakella](https://medium.com/@sreejaakella)
 
