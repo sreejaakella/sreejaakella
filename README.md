@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sreeja akella</h1>
 <h3 align="center">A passionate developer </h3>
 
-- 🔭 I’m currently working on **spring-boot,microservices**
+- 🔭 I’m currently working on **spring-boot,numpy and pandas**
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently learning **spring, machine learning**
 
 - 📝 I regularly write articles on [https://medium.com/@sreejaakella](https://medium.com/@sreejaakella)
 
