@@ -6,7 +6,7 @@ Aspiring Data Analyst and Data Scientist
 
 Aspiring Data Analyst passionate about turning data into meaningful insights. Currently building skills in Python, SQL, Excel, Power BI, data cleaning, exploratory data analysis, and data visualization. I enjoy working on real-world projects and continuously improving my analytical and problem-solving skills.
 
-* 🌍  I'm based in Melbourne,Australia
+* 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [sreejaakella@gmail.com](mailto:sreejaakella@gmail.com)
 * 🧠  I'm currently learning powerbi,sql
 
